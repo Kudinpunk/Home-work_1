@@ -1,0 +1,15 @@
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\Task_10.csproj.AssemblyReference.cache
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfoInputs.cache
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfo.cs
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\Task_10.csproj.CoreCompileInputs.cache
+D:\my_study\home_work_14_02_23\Task_10\bin\Debug\net6.0\Task_10.exe
+D:\my_study\home_work_14_02_23\Task_10\bin\Debug\net6.0\Task_10.deps.json
+D:\my_study\home_work_14_02_23\Task_10\bin\Debug\net6.0\Task_10.runtimeconfig.json
+D:\my_study\home_work_14_02_23\Task_10\bin\Debug\net6.0\Task_10.dll
+D:\my_study\home_work_14_02_23\Task_10\bin\Debug\net6.0\Task_10.pdb
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\Task_10.dll
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\refint\Task_10.dll
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\Task_10.pdb
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\Task_10.genruntimeconfig.cache
+D:\my_study\home_work_14_02_23\Task_10\obj\Debug\net6.0\ref\Task_10.dll
